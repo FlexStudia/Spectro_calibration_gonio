@@ -1,0 +1,13 @@
+text
+Some text is here
+column1 column2 column3
+0	NaN,  NaN
+0.00000	NaN,  NaN
+400	0.6702,  0.006
+410.00000	0.7511,  0.004
+0.00000	NaN,  NaN
+0.00000	NaN,  NaN
+400.00000	0.6702,  0.005
+410.00000	0.7511,  0.004
+0.00000	NaN,  NaN
+0.00000	NaN,  NaN

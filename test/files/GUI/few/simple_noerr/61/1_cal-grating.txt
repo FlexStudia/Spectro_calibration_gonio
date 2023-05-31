@@ -1,0 +1,9 @@
+Adjustment factors of the gratings in 1.txt
+Gratings	Wavelengths_nm	Factors
+grating_1	400.0-670.0	fixed	1.0000
+grating_2	680.0-990.0	not	0.9977
+grating_3	1000.0-1590.0	not	0.9968
+grating_4	1600.0-2050.0	not	0.9724
+grating_5	2060.0-2830.0	not	0.9634
+grating_6	2840.0-3170.0	not	1.0017
+grating_7	3180.0-4180.0	not	1.0095

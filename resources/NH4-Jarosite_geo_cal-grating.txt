@@ -1,0 +1,4 @@
+Adjustment factors of the gratings
+Gratings	f_Refl_NH4-Jarosite_i0e-70a0	f_Err_NH4-Jarosite_i0e-70a0	f_Refl_NH4-Jarosite_i0e-60a0	f_Err_NH4-Jarosite_i0e-60a0	f_Refl_NH4-Jarosite_i0e-40a0	f_Err_NH4-Jarosite_i0e-40a0 Refl_NH4-Jarosite_i0e-20a0	Err_NH4-Jarosite_i0e-20a0
+grating_1	1.015	1.015	0.996	0.996	1	1	0.987	0.987
+grating_2	1	1	0.994	0.994	1.035	1.035	0.998	0.998

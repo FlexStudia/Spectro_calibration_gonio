@@ -1,0 +1,10 @@
+Adjustment factors of the gratings in NH4-Jarosite_i0e20a0_c.txt.txt
+Gratings	Wavelengths_nm	Ref_range	Factors
+grating_1	400.0-670.0	not	1.0380
+grating_2	680.0-990.0	not	1.0357
+grating_3	1000.0-1590.0	not	1.0347
+grating_4	1600.0-2050.0	not	1.0094
+grating_5	2060.0-2830.0	fixed	1.0000
+grating_6	2840.0-3170.0	not	1.0398
+grating_7	3180.0-3880.0	not	1.0479
+grating_8	3900.0-4180.0	not	1.0207
